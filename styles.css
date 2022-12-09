@@ -1,0 +1,29 @@
+body {
+    background-image: url("img/group-portrait-adorable-puppies.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+}
+
+
+a:link{
+    text-decoration: none;
+    padding: 16px;
+    font-size: 32px;
+    color: black;
+}
+
+a:visited{text-decoration: none; color: black;}
+
+.connecter {
+    padding: 8px;
+    font-size: 28px;
+    border-radius: 15px;
+    background-color: #d4e5f3;
+}
